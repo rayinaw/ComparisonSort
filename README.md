@@ -1,1 +1,1 @@
-# ComparisonSort
+## Just compare sorting algorithms
