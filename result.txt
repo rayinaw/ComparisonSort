@@ -1,0 +1,44 @@
+Sortlib
+test 1:                 0.073
+test 2:                 0.063
+test 3:                 0.167
+test 4:                 0.171
+test 5:                 0.18
+test 6:                 0.179
+test 7:                 0.172
+test 8:                 0.177
+test 9:                 0.168
+test 10:                0.17
+Quicksort
+test 1:                 0.038
+test 2:                 0.04
+test 3:                 0.134
+test 4:                 0.131
+test 5:                 0.131
+test 6:                 0.133
+test 7:                 0.139
+test 8:                 0.137
+test 9:                 0.145
+test 10:                0.136
+Mergesort
+test 1:                 0.176
+test 2:                 0.165
+test 3:                 0.289
+test 4:                 0.261
+test 5:                 0.255
+test 6:                 0.26
+test 7:                 0.259
+test 8:                 0.252
+test 9:                 0.243
+test 10:                0.247
+Heapsort
+test 1:                 0.287
+test 2:                 0.284
+test 3:                 0.386
+test 4:                 0.394
+test 5:                 0.391
+test 6:                 0.393
+test 7:                 0.401
+test 8:                 0.395
+test 9:                 0.507
+test 10:                0.367
